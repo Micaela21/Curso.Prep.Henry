@@ -1,0 +1,10 @@
+VARIABLES : Las variables son contenedores de valores o datos.
+STRINGS : Las strings son cadenas de texto.
+FUNCIONES : Las funciones sirven para ejecutar las tareas que necesitamos
+cuantas veces necesitemos. A las funciones se le pueden definir argumentos que
+son aquellas cosas con las que vamos a trabajar dentro de la funcion.
+Las funciones return nos sirven para devolver algun resultado luego de llamarla.
+DECLARACIONES IF : Las declaraciones if sirven para determinar verdaderos o
+falsos, asi como tambien determinar ciertas acciones si sucede una u otra cosa.
+VALORES BOOLEANOS :  Los valores booleanos son aquellos valores que esperamos
+cuando trabajamos con declaraciones if. Son dos posibles resultados true o false.
