@@ -1,0 +1,14 @@
+Los objetos son contenedores como los array pero tienen diferencias. Los objetos
+tienen propiedades y para estas propiedades se determinan valores. Ademas, los
+objetos poseen metodos, que son funciones definidas dentro del objeto. 
+Un ejemplo de todo esto seria:
+el objeto = un auto 
+sus propiedades = velocidad, color, tipo
+sus metodos = frenan, prenden luces
+Para recorrer un objeto podemos usar un bule for.. in.
+La notacion de puntos y la notacion de corchetes son dos maneras de acceder a los
+datos de un objeto. Existe una pequeña diferencia entre estos dos:
+Por ejemplo : objeto.prop === objeto['prop'] pero
+		objeto.prop !=== objeto[prop] estas dos opciones no son lo
+mismo porque en la segunda opcion cuando llamo con solo corchetes, estoy 
+invocando una variable y no una propiedad definida del objeto.

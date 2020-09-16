@@ -1,0 +1,11 @@
+FOR : Es un bucle, es un bloque de codigo que va a ejecutarse las veces que
+sean necesarias.
+&&, ||, ! : son operadores logicos.
+&&, cuando usamos este operador logico las dos condiciones deben ser true para 
+que la declaracion sea true. Si alguna de las condiciones no se cumplen entonces 
+nos devolvera false.
+||, cuando usamos este operador logico no necesariamente deben cumplirse las dos 
+condiciones, es suficiente con que una condicion sea verdadera para que la
+declaracion lo sea.
+!, este operador sirve para negar. Por ejemplo: 1!== 0 (uno no es
+igual a cero)

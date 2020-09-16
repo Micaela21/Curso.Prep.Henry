@@ -1,0 +1,5 @@
+PROTOTYPE : un prototipo es una plantilla que uno determina para poder usarla
+de guia para crear varios objetos con las mismas propiedades.
+CONSTRUCTORS : un constructor es una funcion que me permite crear nuevos objetos.
+Dentro de la funcion se crea la plantilla y cuando llamamos la funcion pasamos los
+argumentos que se toman como valores de las propiedades del nuevo objeto.
