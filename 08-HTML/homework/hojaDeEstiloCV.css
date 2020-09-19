@@ -1,5 +1,5 @@
-			.container { display: grid;
-				grid-template-columns: auto auto;
+			.container { display: flex;
+				flex-wrap: wrap;
 				justify-content: center;
 				font-family: 'Courier Prime',serif;
 				background-color: #B8A594;
@@ -10,7 +10,7 @@
 				margin-left: auto;
 				margin-right: auto;
 				border-radius: 10px;}
-			h1, h3 { background-color: #505664;
+			h1, h2, h3 { background-color: #505664;
 					color: #EADCBF;
 					border-radius: 5px;
 					text-align: center;
@@ -22,6 +22,6 @@
 				padding-bottom: 50px;
 				padding-left: 50px;
 				border-radius: 80px;
-				background-color:#EADCBF;}
-			.item1 { margin: 50px 15px 50px 100px;}
-			.item2 { margin: 50px 100px 50px 15px;}	
+				background-color:#EADCBF;
+				width: 35%;
+				margin: 50px auto 50px auto;}
